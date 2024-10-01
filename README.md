@@ -1,5 +1,7 @@
 # Hardware Store Website
 
+Para acessar o site entre em: https://marcelodepauladev.github.io/site_lojaHardware/
+
 Este projeto foi desenvolvido como parte de um processo seletivo, envolvendo a criação de um site de uma loja de hardware com uma área de administração separada. O site está hospedado no GitHub Pages.
 
 ## Estrutura do Diretório
